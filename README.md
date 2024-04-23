@@ -38,4 +38,4 @@ Just Practicing and Refreshing my knowledge about HTML and CSS.
 
 ## Author
 
-- Frontend Mentor - [@iBex](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@iBex](https://www.frontendmentor.io/profile/i-Bex)
